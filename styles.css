@@ -1,0 +1,30 @@
+
+.topic {
+    font-size: 22px;
+    background-color: burlywood;
+    color: aqua;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    align-self:center;
+    width: 900px;
+    height: auto;
+}
+.desc {
+    font-size: 22px;
+    color:antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1.heading {
+    text-align: center;
+    font-size: 50px;
+    color: yellowgreen;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
